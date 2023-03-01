@@ -34,8 +34,9 @@
  - 2.U must insert your montior EDID in config.plist DeveciProperties -- PciRoot(0x0)/Pci(0x2,0x0) -- AAPL01,override-no-connect -- 00000000 00000000 00000000 （replace this）  [500Series With 10th CPU UHD630 in Macos Video](https://www.bilibili.com/video/BV1UW4y1J7J2/)
 
 ![image](ScreenShot/EDID.png)
- 
-###Bios Setup
+
+### Bios Setup
+
 | Name | Option |
 | ----- | --- |
 
@@ -43,7 +44,7 @@
 ### Known issues
 
 - No Wireless LAN Adapter，So `WiFi` and `Bluetooth` unserviceable
-- No HDMI Audio
+- No `HDMI Audio` 
 
 ### PC CASE
 ![image](ScreenShot/CASE.png)
