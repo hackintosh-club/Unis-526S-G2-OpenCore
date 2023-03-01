@@ -36,7 +36,7 @@
 
 ![image](ScreenShot/EDID.png)
 
-### Known issues
+### 已知问题
 
 - 未安装无线网卡，故`WiFi` 和 `蓝牙` 无法使用
 - `HDMI音频` 无法使用
