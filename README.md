@@ -23,7 +23,7 @@
 - iGPU: Intel UHD Graphic 630
 - Audio: Realtek ALC897
 - Ethernet Card: Realtek 8168
-- PSU: 300W 
+- PSU: 180W 
 
 ### Notes
  - Use [OpenCore Configurator](https://mackie100projects.altervista.org/opencore-configurator/) build your SMBIOS
