@@ -6,7 +6,7 @@
 
 ### OpenCore
 
-[OpenCore 0.9.2](https://github.com/acidanthera/OpenCorePkg)
+[OpenCore 0.9.7](https://github.com/acidanthera/OpenCorePkg)
 
 ### OS Version Tested
 
@@ -32,7 +32,7 @@
  - When u only use 10th CPU UHD630 on Unis-526S-G2 with HDMI
  - 1.search montior EDID in Windows
  - 2.U must insert your montior EDID in config.plist DeveciProperties -- PciRoot(0x0)/Pci(0x2,0x0) -- AAPL01,override-no-connect -- 00000000 00000000 00000000 （replace this）  
- 
+
 [500Series With 10th CPU UHD630 in Macos Video](https://www.bilibili.com/video/BV1UW4y1J7J2/)
 
 ![image](ScreenShot/EDID.png)
